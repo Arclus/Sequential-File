@@ -23,6 +23,7 @@
             o Sınıf Sırası bütün öğrenciler eklendikten sonra sınıf ve gano alanına göre doldurulacaktır ve
             o Sınıf alanı 1, 2, 3, 4 olmak üzere rastgele doldurulacaktır. Her bir sınıfta 2500 öğrenci olacaktır.
             o Cinsiyet Kız ve Erkek rastgele doldurulacaktır. İsim alanı cinsiyete göre rastgele iki ayrı listeden alınacaktır.
+            
  Çıktı:
             o Program ile önce ardışık bir dosyaya rastgele kayıtlar yazılacaktır.
             o Sınıf Sıra ve Bölüm Sıra alanları ikinci aşamada hesaplanarak güncellenecektir.
